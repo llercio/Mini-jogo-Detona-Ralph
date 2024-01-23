@@ -10,10 +10,8 @@ Clone este repositório para sua máquina local.
 Abra o arquivo index.html em seu navegador web.
 Use o mouse para interagir e marcar pontos!
 
-OU
-
-Acesse:
-<a href="https://llercio.github.io/Mini-jogo-Detona-Ralph/" target="_blank">Jogo Detona Ralph</a>
+<h1>Ou acesse:</h1>
+<a href="https://llercio.github.io/Mini-jogo-Detona-Ralph/" target="_blank"></a>
 
 O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.
 
