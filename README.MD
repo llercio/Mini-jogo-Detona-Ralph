@@ -1,6 +1,6 @@
-<h6>Jogo Detona Ralph criado a partir do curso de jogos com JS da DIO.me.</h4>
+<h1>Jogo Detona Ralph criado a partir do curso de jogos com JS da DIO.me.</h1>
 
-Tecnologias Utilizadas
+<h2>Tecnologias Utilizadas:</h2>
 HTML5 e CSS3 para a estrutura e aparência do jogo.
 JavaScript para a lógica de programação e interatividade.
 Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
@@ -10,7 +10,7 @@ Clone este repositório para sua máquina local.
 Abra o arquivo index.html em seu navegador web.
 Use o mouse para interagir e marcar pontos!
 
-<h1>Ou acesse:</h1>
+<h4>Ou acesse:</h4>
 <a href="https://llercio.github.io/Mini-jogo-Detona-Ralph/" target="_blank"></a>
 
 O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.
