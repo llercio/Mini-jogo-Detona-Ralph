@@ -16,7 +16,7 @@ Abra o arquivo index.html em seu navegador web.
 Use o mouse para interagir e marcar pontos!
 
 <br><br>
-<h3></h3>O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.</h3>
+<h3>O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.</h3>
 
 <br>
 
