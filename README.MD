@@ -15,7 +15,10 @@ Abra o arquivo index.html em seu navegador web.
 <h4>Como Jogar</h4>
 Use o mouse para interagir e marcar pontos!
 
-O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.
+<br><br>
+<h3></h3>O jogo ainda é muito básico. Quando adquirir mais conhecimento, provavelmente irei melhorar e adicionar mais funções.</h3>
 
-Contribuição
+<br>
+
+<h2>Contribuição:</h2>
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
