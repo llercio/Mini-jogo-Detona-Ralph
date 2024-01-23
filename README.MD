@@ -9,6 +9,7 @@ Sprites e imagens customizadas para criar a estética única do universo de Deto
 Clone este repositório para sua máquina local.
 Abra o arquivo index.html em seu navegador web.
 <h4>Ou acesse:</h4>
+
 <a href="https://llercio.github.io/Mini-jogo-Detona-Ralph/" target="_blank"></a>
 
 <h4>Como Jogar</h4>
