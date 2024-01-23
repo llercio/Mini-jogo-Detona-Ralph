@@ -1,4 +1,4 @@
-Jogo Detona Ralph criado a partir do curso de jogos com JS da DIO.me.
+<h4>Jogo Detona Ralph criado a partir do curso de jogos com JS da DIO.me.</h4>
 
 Tecnologias Utilizadas
 HTML5 e CSS3 para a estrutura e aparência do jogo.
